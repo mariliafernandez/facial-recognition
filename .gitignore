@@ -120,6 +120,7 @@ venv.bak/
 # mkdocs documentation
 /site
 /faces_4
+/img
 
 # mypy
 .mypy_cache/
